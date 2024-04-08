@@ -1,0 +1,19 @@
+{
+  "name": "dcjs",
+  "version": "1.0.0",
+  "description": "HTMX type library",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan612/dcjs.git"
+  },
+  "author": "Dan Chadwick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dan612/dcjs/issues"
+  },
+  "homepage": "https://github.com/dan612/dcjs#readme"
+}
